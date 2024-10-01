@@ -1,4 +1,4 @@
-['[MasterHead](https://www.freepik.com/free-vector/computer-technology-big-data_10120863.htm#query=data%20science&position=5&from_view=keyword&track=ais_hybrid&uuid=cc0eb16c-a2ab-4680-915c-56d503fa5bd2)](https://rishavchanda.io)
+['[MasterHead]([https://www.freepik.com/free-vector/computer-technology-big-data_10120863.htm#query=data%20science&position=5&from_view=keyword&track=ais_hybrid&uuid=cc0eb16c-a2ab-4680-915c-56d503fa5bd2](https://images.app.goo.gl/RwQcm7K157Y5yAoM6))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ruby</h1>
 
 [Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/) is a Data Expert. With experience varying from data wrangling, preprocessing, analytics & reporting to leveraging clean data to build scalable machine learning models that makes your company save time and money. She has contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
