@@ -1,7 +1,5 @@
 ![](hi.jpg)
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfYls_ejHQ_D_RxjOrOOtyLXxGo7ohDul1A&s)]
-
 <h1 align="center">Hi 👋, I'm Ruby</h1>
 
 [Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/) is a Data Expert. With experience varying from data wrangling, preprocessing, analytics & reporting to leveraging clean data to build scalable machine learning models that makes your company save time and money. She has contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
