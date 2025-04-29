@@ -2,19 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Ruby</h1>
 
-[Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/) is a Data Expert. With experience varying from data wrangling, preprocessing, analytics & reporting to leveraging clean data to build scalable machine learning models that makes your company save time and money. She has contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
+[Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/) is a Data Expert, with experience varying from data wrangling, data preprocessing, analytics, visual reporting, and leveraging clean data to build scalable machine learning models that makes your company save time and money. She has contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
 
 
 
-- 💬 Ask me anything about **Data Analytics/Data Scientist/Machine Learning**
+- 💬 Ask me anything about **Data Analytics/Data Science/Machine Learning**
 
 - 📫 How to reach me **rubyugonnaya@gmail.com**
 
-- 👯 I’m looking to collaborate on **a Student AI Recommendation Assistant**
+- 👯 I’m looking to collaborate on **an AI Powered Coding Class Platform**
 
 - 📝 I regularly write articles on [https://medium.com/@rubyugonnaya](https://medium.com/@rubyugonnaya)
 
-- ⚡ Fun fact **😄 When I am not crunching datasets, I am reading a book, watching horror movies or singing**
+- ⚡ Fun fact **😄 When I am not crunching datasets, I am reading a book, watching horror movies or creating contents**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
