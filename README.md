@@ -1,7 +1,6 @@
 ![](hi.jpg)
 
-[![MasterHead](https://www.freepik.com/free-vector/big-data-background-technology-visualization-artificial_26766758.htm)]
-
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfYls_ejHQ_D_RxjOrOOtyLXxGo7ohDul1A&s)]
 
 <h1 align="center">Hi 👋, I'm Ruby</h1>
 
