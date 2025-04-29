@@ -1,6 +1,6 @@
 ![](hi.jpg)
 
-[![MasterHead](https://www.freepik.com/free-vector/big-data-background-technology-visualization-artificial_26766758.htm)](https://rishavchanda.io)
+[![MasterHead](https://www.freepik.com/free-vector/big-data-background-technology-visualization-artificial_26766758.htm)]
 
 
 <h1 align="center">Hi 👋, I'm Ruby</h1>
