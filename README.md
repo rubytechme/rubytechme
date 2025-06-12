@@ -4,19 +4,21 @@
 
 ## 🚀 About me:
 
-I am [Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/), a result-driven and process-oriented Data Analyst with experience in building efficient data pipelines and interactive visuals that tell compelling stories and deliver innovative solutions to problems. 
+I am [Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/), a result-driven and process-oriented Data Analyst with experience in building efficient data pipelines and interactive visuals that tell compelling stories and deliver innovative solutions to problems. I have contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
 
-I hold half a decade of experience in data wrangling, data preprocessing, analytics,  interactive visual reporting, and data governance.
+## :recycle: Core competence:
 
-- 💬 Ask me anything about **Data Analytics/Data Science/Machine Learning**
+- Data Wrangling
+- Analytics
+- Interactive Visual Reporting
+- Data Governance
+- Data Preprocessing & Machine Learning
 
-- 📫 How to reach me **rubyugonnaya@gmail.com**
-
-- 👯 I’m looking to collaborate on **an AI Powered Coding Class Platform**
-
-- 📝 I regularly write articles on [https://medium.com/@rubyugonnaya](https://medium.com/@rubyugonnaya)
-
-- ⚡ Fun fact **😄 When I am not crunching datasets, I am reading a book, watching horror movies or creating contents**
+## When I am not crunching datasets, you will find me:
+- 📝 Writing insghtful blog post on [https://medium.com/@rubyugonnaya](https://medium.com/@rubyugonnaya)
+- 💬 Speaking to young people about tech
+- 👯 Taking on community projects in relation to SDG 4 and 5
+  
 
 ## :package: Connect with me:
 <p align="left">
@@ -43,3 +45,9 @@ I love sharing my knowledge through dedicated blog posts. Check out some of my p
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubytechme&show_icons=true&locale=en" alt="rubytechme" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubytechme&" alt="rubytechme" /></p>
+
+
+## 📫 How to reach me:
+
+**rubyugonnaya@gmail.com**
+
