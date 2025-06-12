@@ -6,7 +6,7 @@
 
 I am [Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/), a result-driven and process-oriented Data Analyst with experience in building efficient data pipelines and interactive visuals that tell compelling stories and deliver innovative solutions to problems. I have contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
 
-## :recycle: Core competence:
+## :recycle: Core Competences:
 
 - Data Wrangling
 - Analytics
