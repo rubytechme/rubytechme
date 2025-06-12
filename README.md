@@ -1,5 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ruby</h1>
 
+<div align="center">
+
+<h3>Data Analyst 📊 &nbsp;||&nbsp; Data Scientist 👩‍💻 </h3>
+
+</div>
+
+
+<div align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge&logo=sap&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/ruby-ihekweme-aat-aca-b25001174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rubytechme" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@rubyugonnaya" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-00C853?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+
 ## 🚀 About me:
 
 I am [Ruby Ihekweme](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/), a result-driven and process-oriented Data Analyst with experience in building efficient data pipelines and interactive visuals that tell compelling stories and deliver innovative solutions to problems. I have contributed over half a decade to the data analytics space and is now championing this comprehensive data analytics expertise to build sophisticated recommendation systems and predictive models.
