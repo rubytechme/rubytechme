@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://rubytechme.github.io/portfolio/data/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge&logo=sap&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ruby-ihekweme-aat-aca-b25001174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
